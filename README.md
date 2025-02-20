@@ -11,7 +11,7 @@
  ## Установка
  1. Склонируйте репозиторий:
 ```bash
-    git clone https://github.com/ВАШ_ЛОГИН/labirint-parser.git
+    git clone https://github.com/Daniel-K22/labirint-parser.git
 
    ```
  2. Установите зависимости:
@@ -35,5 +35,5 @@
  - Requests, BeautifulSoup4, Tabulate
 
  ## Автор
- [ВАШ_ЛОГИН] — разработчик с опытом в парсинге и автоматизации.
+ Daniel-K22 — разработчик с опытом в парсинге и автоматизации.
  
